@@ -1,0 +1,45 @@
+*{
+    text-align: center;
+}
+.container{
+    height: 400px;
+    width: 50%;
+    background-color: #133345;
+    margin: 8% auto;
+    /* box-shadow: 0px 2px 20px 5px #133345; */
+}
+input{
+    outline: none;
+}
+.name{
+    width: 40%;
+    height: 30px;
+}
+.otherField{
+    width: 81%;
+    height: 30px;
+}
+.sign{
+    height: 35px;
+    width: 30%;
+    background-color: #24bc89;
+    color: white;
+}
+.login{
+    height: 35px;
+    width: 82%;
+    background-color: #24bc89;
+    color: white;
+}
+.field_container{
+    margin-bottom: 15px;
+}
+.main_button{
+    padding-top: 40px;
+}
+.title{
+    color: white;
+}
+.signin_padding{
+    padding-top: 65px;
+}
