@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    color: white;
+}
+.sidebar{
+    height: 100Vh;
+    width: 15%;
+    background-color: rgb(9, 90, 144);
+}
+.sidebar1{
+    height: 100Vh;
+    width: 5%;
+    background-color: rgb(9, 90, 144);
+}
+.main{
+    text-align: start;
+    margin: 0;
+}
+.icon{
+    height: 30px;
+    width: 30px;
+}
+ul{
+    padding: 15px 0 0 15px;
+    list-style: none;
+}
+li{
+    text-align: start;
+    margin-top:16px ;
+    font-size: 22px;
+    display: flex;
+}
+h2{
+    font-size: 22px;
+    margin: 5px 0 0 10px;
+}
